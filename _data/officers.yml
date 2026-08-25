@@ -21,51 +21,51 @@
 # The board renders four to a row, so a full row is four entries.
 
 
-- name: "Cole LaCamera"
-  position: "President"
+- name: "Adam Farmer"
+  position: "Co-President"
   rank: 0
-  linkedin: "https://www.linkedin.com/in/colelacamera/"
-  photo: "/assets/img/exec/cole-lacamera.jpg"
+  linkedin: "https://www.linkedin.com/in/adamfarmer9905/"
+  photo: ""
+
+- name: "Zander Winslow"
+  position: "Co-President"
+  rank: 1
+  linkedin: "https://www.linkedin.com/in/zander-winslow18/"
+  photo: "/assets/img/exec/zander-winslow.jpg"
 
 - name: "Keaton Travis"
   position: "Vice President"
-  rank: 1
+  rank: 2
   photo: "/assets/img/exec/keaton-travis.jpg"
 
 - name: "Tyler Stephenson"
   position: "Treasurer"
-  rank: 2
+  rank: 3
   photo: "/assets/img/exec/tyler-stephenson.jpg"
 
-- name: "Zander Winslow"
+- name: "Everett Russell"
   position: "Secretary"
-  rank: 3
-  linkedin: "https://www.linkedin.com/in/zander-winslow18/"
-  photo: "/assets/img/exec/zander-winslow.jpg"
-
-- name: "Jackson Ball"
-  position: "IT"
   rank: 4
+  linkedin: ""
+  photo: ""
+
+- name: "Joseph Kutka"
+  position: "IT"
+  rank: 5
   linkedin: "https://www.linkedin.com/in/jackson-ball-494511299/"
   photo: "/assets/img/exec/jackson-ball.jpg"
 
-- name: "Drew Laikin"
-  position: "Strategic Partnership Chair"
-  rank: 5
-  linkedin: "https://www.linkedin.com/in/drew-laikin-009640206/"
-  photo: "/assets/img/exec/drew-laikin.jpg"
+- name: "Max Daugherty"
+  position: "IT"
+  rank: 6
+  linkedin: "https://www.linkedin.com/in/max-daugherty-56b593337/"
+  photo: ""
 
-- name: "Evan Ellsworth"
-  position: "Event Coordinator"
-  rank: 7
-  linkedin: "https://www.linkedin.com/in/evan-ellsworth/"
-  photo: "/assets/img/exec/evan-ellsworth.jpg"
-
-- name: "Adam Farmer"
+- name: "Gurshaan Sohi"
   position: "Social Media"
   rank: 8
-  linkedin: "https://www.linkedin.com/in/adamfarmer9905/"
-  photo: "/assets/img/exec/adam-farmer.jpg"
+  linkedin: "https://www.linkedin.com/in/gurshaansohi/"
+  photo: ""
 
 - name: "Dr. James Walden"
   position: "MUCSC Advisor"
