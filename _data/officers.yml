@@ -25,7 +25,7 @@
   position: "Co-President"
   rank: 0
   linkedin: "https://www.linkedin.com/in/adamfarmer9905/"
-  photo: ""
+  photo: "/assets/img/exec/adam-farmer.jpg"
 
 - name: "Zander Winslow"
   position: "Co-President"
@@ -36,36 +36,38 @@
 - name: "Keaton Travis"
   position: "Vice President"
   rank: 2
+  linkedin: "https://www.linkedin.com/in/keaton-travis/"
   photo: "/assets/img/exec/keaton-travis.jpg"
 
 - name: "Tyler Stephenson"
   position: "Treasurer"
   rank: 3
+  linkedin: "https://www.linkedin.com/in/tyler-stephenson4000/"
   photo: "/assets/img/exec/tyler-stephenson.jpg"
 
 - name: "Everett Russell"
   position: "Secretary"
   rank: 4
-  linkedin: ""
-  photo: ""
+  linkedin: "https://www.linkedin.com/in/everett-russell-498024393/"
+  photo: "/assets/img/exec/everett-russell.jpg"
 
 - name: "Joseph Kutka"
   position: "IT"
   rank: 5
-  linkedin: "https://www.linkedin.com/in/jackson-ball-494511299/"
-  photo: "/assets/img/exec/jackson-ball.jpg"
+  linkedin: "https://www.linkedin.com/in/joseph-kutka-46376b382/"
+  photo: "joseph-kutka.jpg"
 
 - name: "Max Daugherty"
   position: "IT"
   rank: 6
   linkedin: "https://www.linkedin.com/in/max-daugherty-56b593337/"
-  photo: ""
+  photo: "/assets/img/exec/max-daugherty.jpg"
 
 - name: "Gurshaan Sohi"
   position: "Social Media"
   rank: 8
   linkedin: "https://www.linkedin.com/in/gurshaansohi/"
-  photo: ""
+  photo: "/assets/img/exec/shaan-sohi.jpg"
 
 - name: "Dr. James Walden"
   position: "MUCSC Advisor"
